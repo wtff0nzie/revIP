@@ -1,5 +1,5 @@
 {
-  "name": "revIP",
+  "name": "revip",
   "description": "Grabbing all you can from an IP address.",
   "url": "",
   "keywords": [
@@ -16,7 +16,7 @@
   },
   "readmeFilename": "readme.md",
   "main": "./revIP",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "node": ">= 0.12"
   },
