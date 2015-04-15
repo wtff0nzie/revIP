@@ -1,0 +1,27 @@
+{
+  "name": "revIP",
+  "description": "Grabbing all you can from an IP address.",
+  "url": "",
+  "keywords": [
+    "IP",
+    "reverse IP"
+  ],
+  "author": {
+    "name": "wtff0nzie",
+    "email": "stopbeing@deziddon.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wtff0nzie/revIP"
+  },
+  "readmeFilename": "readme.md",
+  "main": "./revIP",
+  "version": "0.0.1",
+  "engines": {
+    "node": ">= 0.12"
+  },
+  "dependencies": {
+    "request": "*",
+    "ua-list": "*"
+  }
+}
