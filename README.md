@@ -27,3 +27,7 @@ The following keys are return where available.
 * longitude
 * ISP
 * org
+
+## Installation
+
+    npm install revip
