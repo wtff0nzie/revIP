@@ -3,7 +3,7 @@ Get as much information as possible from an IP address.
 
 ## Usage
 
-    var getIP = require('./revIP');
+    var getIP = require('revip');
 
     getIP('XXX.XXX.XXX.XXX', function (err, data) {
         if (err) {
