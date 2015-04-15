@@ -16,15 +16,14 @@ Get as much information as possible from an IP address.
 ## Response JSON
 The following keys are return where available.
 
-*query
-*ip
-*countyCode
-*country
-*regionCode
-*regionName
-*city
-*postcode
-*latitude
-*longitude
-*isp
-*org
+* IP
+* countyCode
+* country
+* regionCode
+* regionName
+* city
+* postcode
+* latitude
+* longitude
+* ISP
+* org
